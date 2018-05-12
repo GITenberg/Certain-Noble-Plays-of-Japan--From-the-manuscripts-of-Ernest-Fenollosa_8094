@@ -1,5 +1,5 @@
 _repo: Certain-Noble-Plays-of-Japan--From-the-manuscripts-of-Ernest-Fenollosa_8094
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Yeats, W. B. (William Butler)
@@ -15,6 +15,9 @@ contributor:
     deathdate: 1908
     gutenberg_agent_id: '40853'
     url: http://www.gutenberg.org/2009/agents/40853
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Pound, Ezra
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2637
     wikipedia: http://en.wikipedia.org/wiki/Ezra_Pound
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8094#Certain-Noble-Plays-of-Japan--From-the-manuscripts-of-Ernest-Fenollosa
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
